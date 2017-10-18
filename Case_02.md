@@ -3,25 +3,27 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * 02
 * Test Case Name:
-  * #Number
+  * 
 * Component: 
-  * Description
+  * Description 
 * Test Case Designer:
-  * Name
+  * Devin Landeros
 * Creation Date:
-  * Date
+  *  October 17, 2017
 * Modified By:
-  * Name
+  * N/a
 * Modified Date:
-  * Date
+  * N/a
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
   * Description
 * Pre-Test Conditions:
-  * Description
+  *  Description
+
+
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
