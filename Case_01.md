@@ -5,7 +5,7 @@
 * Test Case ID:
   * 01
 * Test Case Name:
-  * #Number
+  * New, Save and load game
 * Component: 
   * Description
 * Test Case Designer:
