@@ -5,9 +5,9 @@
 * Test Case ID:
   * 01
 * Test Case Name:
-  * New, Save and load game
+  * New, Save and Load game
 * Component: 
-  * Description
+  * The tests assess
 * Test Case Designer:
   * Name
 * Creation Date:
