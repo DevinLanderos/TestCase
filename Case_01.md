@@ -7,7 +7,7 @@
 * Test Case Name:
   * New, Save and Load game
 * Component: 
-  *  Menu/Start Up 
+  * Menu/Start Up 
 * Test Case Designer:
   * Devin Landeros
 * Creation Date:
@@ -23,14 +23,14 @@
 * Pre-Test Conditions:
   * New Game: None
   * Save Game: None
-  * Load Game: Have previously Saved a game file.
+  * Load Game: Have previously saved a game file.
 
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | Press Start | | | 		
+| 2 | Select New Game from the menu screen.| | |		
+| 3 | Pick one of the six characters stories to explore. | | |			
 | 4 | | | |			
 | 5 | | | |			
 | 6 | | | |			
