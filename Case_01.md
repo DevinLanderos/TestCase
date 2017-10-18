@@ -7,21 +7,24 @@
 * Test Case Name:
   * New, Save and Load game
 * Component: 
-  * The tests assess
+  *  Menu/Start Up 
 * Test Case Designer:
-  * Name
+  * Devin Landeros
 * Creation Date:
-  * Date
+  * October 17, 2017
 * Modified By:
-  * Name
+  * N/a
 * Modified Date:
-  * Date
+  * N/a
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
-  * Description
+  * The tests are to assess if new game starts up. If the load game properly loads the character position that the player’s character was last in. And if Save Game works as intended. Allowing the player to enter a file name, and then the game saving current variables, character position, and block positions.   
 * Pre-Test Conditions:
-  * Description
+  * New Game: None
+  * Save Game: None
+  * Load Game: Have previously Saved a game file.
+
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
