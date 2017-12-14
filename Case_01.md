@@ -5,7 +5,7 @@
 * Test Case ID:
   * 01
 * Test Case Name:
-  * New, Save and Load game
+  * New game
 * Component: 
   * Menu/Start Up 
 * Test Case Designer:
