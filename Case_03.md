@@ -36,7 +36,7 @@
 
 
 ## Run History:
-| # |	Run Date |	Run By |	Results |¬¬
+| # |	Run Date |	Run By |	Results |--| 
 | --- | --- | --- | --- |
 | 1 | October 23rd  2017 | Steve Gate |Pass |			
 | 2 | October 24th  2017 | Mike Koolbrick |Pass |			
