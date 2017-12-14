@@ -32,8 +32,7 @@
 | 5 | Pick one of the Save files to load. | Prompts the user to select one of the previous saved files | |
 | 6 | The correct game file, is loaded | The player is then able to play the game from the file save they selected | |		
 ## Overall Test Status:
-
-
+Pass
 
 ## Run History:
 | # |	Run Date |	Run By |	Results | 
